@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@truffle/hdwallet-provider": "^1.6.0",
+    "chai": "^4.3.4",
+    "solidity-coverage": "^0.7.17",
+    "truffle-plugin-verify": "^0.5.18"
+  }
+}
